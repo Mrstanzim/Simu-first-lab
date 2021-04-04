@@ -1,2 +1,2 @@
 # Simu first lab
- C program for inter arrival time and arrival time
+ This is the c program for arrival time and inter arrival time.
